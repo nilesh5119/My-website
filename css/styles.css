@@ -1,0 +1,128 @@
+body{
+  color: #40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 100%;
+}
+h1{
+  margin:50px auto 0 auto ;
+  font-family:'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.62rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color:  #66BFBF;
+  font-size:1.17rem;
+}
+hr{
+  width:5%;
+  margin: 100px auto 100px auto;
+  border-style: dotted none none;
+  color:grey;
+  border-width:thick;
+}
+p{
+  line-height: 2;
+}
+a{
+  color: #1e836c;
+  margin: 10px 20px;
+}
+.nilesh{
+  width:400px ;
+  height:auto;
+}
+
+.topcontainer{
+  background-color: white;
+  position: relative;
+  padding: 50px;
+
+}
+
+.intro{
+  width:30%;
+  margin:auto;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.team-work{
+  width: 750px;
+  height:auto;
+}
+.middle-container{
+
+  background-color: white;
+  margin:100px 0;
+
+}
+.bottom-container{
+
+  background-color:#66BFBF;
+  padding: 50px 0 20px 0;
+
+}
+a{
+  margin: 10px 20px;
+  font-family: 'Merriweather Sans', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  background-color: #EAF6F6;
+}
+.team-work{
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+.house{
+  width:35%;
+  float: right;
+  margin-left: 30px;
+}
+.last{
+  color: #EAF6F6;
+}
+
+.myButton {
+	background:linear-gradient(to bottom, #4584c7 5%, #08f0ae 100%);
+	background-color:#4584c7;
+	border-radius:20px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Merriweather Sans', sans-serif;;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #08f0ae 5%, #4584c7 100%);
+	background-color:#08f0ae;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.ending{
+  margin-bottom: 0;
+}
+.top{
+  width: 50%;
+}
